@@ -1,2 +1,2 @@
 # MyFirstRepository
-For Learning
+For AI learning repository
